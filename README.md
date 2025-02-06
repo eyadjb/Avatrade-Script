@@ -1,0 +1,1 @@
+# Avatrade-Script
