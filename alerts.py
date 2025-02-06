@@ -10,7 +10,7 @@ def send_alert(message):
         #define the the email setting like : Email , Password. And starting the SMTP server.
         sender_email = "eyadjbaren99@gmail.com"
         receiver_email = "eyadjb@moovingon.com"
-        password = "wsqg rjna qhgn dbtt"  
+        password = "***********"  
         logging.info("📩 Attempting to send email...")
         server = smtplib.SMTP("smtp.gmail.com", 587)
         server.starttls()
