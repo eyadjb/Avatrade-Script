@@ -1,0 +1,170 @@
+2025-02-06 00:59:03,575 - INFO - ====== WebDriver manager ======
+2025-02-06 00:59:03,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 00:59:03,879 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 00:59:04,051 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 00:59:04,681 - INFO - Opening website...
+2025-02-06 00:59:17,204 - ERROR -  Login button not found
+2025-02-06 00:59:38,245 - INFO - ====== WebDriver manager ======
+2025-02-06 00:59:38,392 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 00:59:38,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 00:59:38,755 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 00:59:39,376 - INFO - Opening website...
+2025-02-06 00:59:51,999 - ERROR -  Login button not found
+2025-02-06 01:01:58,464 - INFO - ====== WebDriver manager ======
+2025-02-06 01:01:58,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:01:58,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:01:58,980 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:01:59,616 - INFO - Opening website...
+2025-02-06 01:02:22,078 - ERROR -  Login button not found
+2025-02-06 01:03:31,948 - INFO - ====== WebDriver manager ======
+2025-02-06 01:03:32,088 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:03:32,268 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:03:32,455 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:03:33,090 - INFO - Opening website...
+2025-02-06 01:03:35,616 - ERROR -  Unexpected error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='wrapper-login']//span[@class='link-btn']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010459f0d4 cxxbridge1$str$ptr + 2600792
+1   chromedriver                        0x00000001045979f0 cxxbridge1$str$ptr + 2570356
+2   chromedriver                        0x00000001041383d8 cxxbridge1$string$len + 89376
+3   chromedriver                        0x000000010417d414 cxxbridge1$string$len + 372060
+4   chromedriver                        0x00000001041b7638 cxxbridge1$string$len + 610176
+5   chromedriver                        0x000000010417134c cxxbridge1$string$len + 322708
+6   chromedriver                        0x0000000104171f94 cxxbridge1$string$len + 325852
+7   chromedriver                        0x000000010456a238 cxxbridge1$str$ptr + 2384060
+8   chromedriver                        0x000000010456d550 cxxbridge1$str$ptr + 2397140
+9   chromedriver                        0x0000000104550b9c cxxbridge1$str$ptr + 2279968
+10  chromedriver                        0x000000010456de10 cxxbridge1$str$ptr + 2399380
+11  chromedriver                        0x00000001045426a4 cxxbridge1$str$ptr + 2221352
+12  chromedriver                        0x00000001045887d8 cxxbridge1$str$ptr + 2508380
+13  chromedriver                        0x0000000104588954 cxxbridge1$str$ptr + 2508760
+14  chromedriver                        0x0000000104597664 cxxbridge1$str$ptr + 2569448
+15  libsystem_pthread.dylib             0x000000019ca632e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019ca5e0fc thread_start + 8
+
+2025-02-06 01:05:44,679 - INFO - ====== WebDriver manager ======
+2025-02-06 01:05:44,822 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:05:45,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:05:45,178 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:05:45,799 - INFO - 🌐 Opening website...
+2025-02-06 01:06:12,142 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:08:23,769 - INFO - ====== WebDriver manager ======
+2025-02-06 01:08:23,914 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:08:24,088 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:08:24,264 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:08:24,931 - INFO - 🌐 Opening website...
+2025-02-06 01:08:50,292 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:09:37,439 - INFO - ====== WebDriver manager ======
+2025-02-06 01:09:37,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:09:37,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:09:37,925 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:09:38,574 - INFO - 🌐 Opening website...
+2025-02-06 01:10:04,019 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:11:39,784 - INFO - ====== WebDriver manager ======
+2025-02-06 01:11:39,932 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:11:40,135 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:11:40,322 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:11:41,139 - INFO - 🌐 Opening website...
+2025-02-06 01:12:06,714 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:13:38,780 - INFO - ====== WebDriver manager ======
+2025-02-06 01:13:38,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:13:39,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:13:39,294 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:13:40,110 - INFO - 🌐 Opening website...
+2025-02-06 01:14:05,464 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:16:37,240 - INFO - ====== WebDriver manager ======
+2025-02-06 01:16:37,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:16:38,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:16:40,178 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:16:40,818 - INFO - 🌐 Opening website...
+2025-02-06 01:17:06,744 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:17:35,780 - INFO - ====== WebDriver manager ======
+2025-02-06 01:17:35,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:17:36,125 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:17:36,322 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:17:36,969 - INFO - 🌐 Opening website...
+2025-02-06 01:17:42,269 - ERROR - ❌ ❌ Unexpected error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='/trading-account']"}
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001009630d4 cxxbridge1$str$ptr + 2600792
+1   chromedriver                        0x000000010095b9f0 cxxbridge1$str$ptr + 2570356
+2   chromedriver                        0x00000001004fc3d8 cxxbridge1$string$len + 89376
+3   chromedriver                        0x0000000100541414 cxxbridge1$string$len + 372060
+4   chromedriver                        0x000000010057b638 cxxbridge1$string$len + 610176
+5   chromedriver                        0x000000010053534c cxxbridge1$string$len + 322708
+6   chromedriver                        0x0000000100535f94 cxxbridge1$string$len + 325852
+7   chromedriver                        0x000000010092e238 cxxbridge1$str$ptr + 2384060
+8   chromedriver                        0x0000000100931550 cxxbridge1$str$ptr + 2397140
+9   chromedriver                        0x0000000100914b9c cxxbridge1$str$ptr + 2279968
+10  chromedriver                        0x0000000100931e10 cxxbridge1$str$ptr + 2399380
+11  chromedriver                        0x00000001009066a4 cxxbridge1$str$ptr + 2221352
+12  chromedriver                        0x000000010094c7d8 cxxbridge1$str$ptr + 2508380
+13  chromedriver                        0x000000010094c954 cxxbridge1$str$ptr + 2508760
+14  chromedriver                        0x000000010095b664 cxxbridge1$str$ptr + 2569448
+15  libsystem_pthread.dylib             0x000000019ca632e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019ca5e0fc thread_start + 8
+
+2025-02-06 01:22:30,877 - INFO - 🌐 Opening website...
+2025-02-06 01:22:56,528 - ERROR - ❌ ❌ Login button not found
+2025-02-06 01:24:02,796 - INFO - 🌐 Opening website...
+2025-02-06 01:24:08,241 - INFO - ✅ Clicked on login button.
+2025-02-06 01:24:08,955 - INFO - ✅ Entered username.
+2025-02-06 01:24:11,105 - INFO - ✅ Entered password.
+2025-02-06 01:24:23,439 - ERROR - ❌ ❌ Login submission button not found
+2025-02-06 01:24:41,132 - INFO - ====== WebDriver manager ======
+2025-02-06 01:24:41,226 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:24:41,398 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:24:41,587 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:24:42,397 - INFO - Opening website...
+2025-02-06 01:25:04,727 - ERROR -  Login button not found
+2025-02-06 01:25:16,773 - INFO - ====== WebDriver manager ======
+2025-02-06 01:25:16,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:25:17,103 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:25:17,283 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:25:17,992 - INFO - Opening website...
+2025-02-06 01:25:40,958 - ERROR -  Login button not found
+2025-02-06 01:26:03,513 - INFO - ====== WebDriver manager ======
+2025-02-06 01:26:03,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:26:03,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:26:04,040 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:26:04,846 - INFO - Opening website...
+2025-02-06 01:26:07,779 - INFO - Clicked on login button.
+2025-02-06 01:26:08,432 - INFO -  Entered username.
+2025-02-06 01:26:10,563 - INFO -  Entered password.
+2025-02-06 01:26:12,684 - INFO -  Clicked on Login submit button.
+2025-02-06 01:26:17,706 - INFO -  Login Successful. Found mainWrapper.
+2025-02-06 01:26:19,837 - INFO -  Test Completed Successfully.
+2025-02-06 01:26:46,551 - INFO - ====== WebDriver manager ======
+2025-02-06 01:26:46,685 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:26:46,898 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:26:47,115 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:26:47,910 - INFO - Opening website...
+2025-02-06 01:26:51,506 - INFO - Clicked on login button.
+2025-02-06 01:26:52,273 - INFO -  Entered username.
+2025-02-06 01:26:54,393 - INFO -  Entered password.
+2025-02-06 01:26:56,496 - INFO -  Clicked on Login submit button.
+2025-02-06 01:27:01,518 - INFO -  Login Successful. Found mainWrapper.
+2025-02-06 01:27:03,647 - INFO -  Test Completed Successfully.
+2025-02-06 01:27:48,364 - INFO - ====== WebDriver manager ======
+2025-02-06 01:27:48,514 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:27:48,774 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:27:48,950 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:27:49,596 - INFO - Opening website...
+2025-02-06 01:28:12,509 - ERROR -  Login button not found
+2025-02-06 01:31:04,625 - INFO - ====== WebDriver manager ======
+2025-02-06 01:31:04,772 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:31:04,944 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:31:05,119 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:31:05,750 - INFO - Opening website...
+2025-02-06 01:31:51,425 - ERROR -  Login button not found
+2025-02-06 01:41:50,826 - INFO - ====== WebDriver manager ======
+2025-02-06 01:41:50,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:41:51,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 01:41:51,344 - INFO - Driver [/Users/eyadjb/.wdm/drivers/chromedriver/mac64/132.0.6834.159/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-06 01:41:52,111 - INFO - Opening website...
+2025-02-06 01:42:14,577 - INFO - Clicked on login button.
+2025-02-06 01:42:14,910 - INFO -  Entered username.
+2025-02-06 01:42:17,069 - INFO -  Entered password.
+2025-02-06 01:42:19,180 - INFO -  Clicked on Login submit button.
+2025-02-06 01:42:24,201 - INFO -  Login Successful. Found mainWrapper.
+2025-02-06 01:42:26,335 - INFO -  Test Completed Successfully.
