@@ -45,7 +45,7 @@ def send_slack_alert(message):
     if response.status_code == 200:
         print("✅ Slack alert sent successfully!")
     else:
-        print(f"❌ Failed to send Slack alert: {response.status_code}, {response.text}")
+        print(f" Failed to send Slack alert: {response.status_code}, {response.text}")
 
 
 
